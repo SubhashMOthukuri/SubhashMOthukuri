@@ -36,17 +36,6 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-## 📊 Engineering Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SubhashMOthukuri&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhashMOthukuri&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhashMOthukuri&layout=compact&theme=tokyonight">
-</p>
-
 
 ## 🧠 Focus Areas
 
