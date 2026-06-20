@@ -8,7 +8,7 @@
 </p>
 ## 🚀 About Me
 
-- 🧠 Machine Learning Engineer with 5+ years experience
+- 🧠 Machine Learning Engineer building End to End Product
 - 🤖 Building AI systems and scalable ML pipelines
 - ☁️ Interested in Cloud AI infrastructure
 - 🔬 Exploring LLMs, RAG systems, and multimodal AI
