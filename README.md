@@ -7,7 +7,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;AI+Systems+Builder;Backend+Engineer;Cloud+Native+Developer&center=true&width=500&height=50">
 </p>
 
-
+<p align="center">
+  <a href="https://portfolio-sand-three-o41pqgcmv7.vercel.app/#home"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/subhash-mothukuru/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/SubhashMOthukuri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:meet.subhashmothukuru@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 🚀 About Me
 🧠 Machine Learning Engineer building end-to-end AI products
